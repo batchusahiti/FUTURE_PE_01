@@ -1,77 +1,69 @@
-Homepage Prompt:
-"Write homepage copy for a local café called Velvet Brews. Highlight fresh coffee, cozy atmosphere, and community vibe. Keep it simple and persuasive."
-
-Services Prompt:
-"Generate service descriptions for Velvet Brews café: Coffee Menu, Bakery Items, Catering Services. Write in a friendly, inviting tone."
-
-CTA Prompt:
-"Write a strong call-to-action for Velvet Brews café encouraging customers to visit, book catering, or contact us."
-Create a visually stunning premium cake bakery website for “Velvet Crumbs Bakery” in Hyderabad.
+Create a visually stunning premium café website for “Velvet Brews Café” in Pedatadepalli.
 
 Design Style:
--modern luxury bakery
--elegant and aesthetic dessert-shop atmosphere
--soft pastel visuals with premium feel
--warm cozy lighting effect
--trendy Instagram-style presentation
--smooth modern UI layout
--premium and visually rich design
--stylish typography with luxury branding
+- Modern cozy café
+- Elegant and aesthetic coffee-shop atmosphere
+- Soft earthy visuals with premium feel
+- Warm cozy lighting effect
+- Trendy Instagram-style presentation
+- Smooth modern UI layout
+- Premium and visually rich design
+- Stylish typography with luxury branding
 
 Color Palette:
--pastel pink
--cream white
--caramel beige
--chocolate brown
--warm peach
--soft gold accents
+- Coffee brown
+- Cream white
+- Caramel beige
+- Warm latte tan
+- Soft peach
+- Gold accents
 
 Website Sections:
-#Hero Section:
--bold headline with premium bakery tagline
--attractive background image of cakes and pastries
--stylish “Order Now” and “Visit Store” buttons
+# Hero Section:
+- Bold headline with premium café tagline
+- Attractive background image of coffee and bakery treats
+- Stylish “Order Now” and “Visit Café” buttons
 
-#Signature Cakes Section:
--showcase premium cakes using elegant product cards
--birthday cakes, wedding cakes, customized cakes, cupcakes
--hover animations and modern layouts
+# Signature Coffee Menu:
+- Showcase premium coffees using elegant product cards
+- Espresso, cappuccino, latte, cold brew
+- Hover animations and modern layouts
 
-#Desserts & Pastries Showcase:
--macarons, donuts, brownies, pastries, cheesecakes
--aesthetic image gallery with Instagram-style visuals
+# Bakery & Snacks Showcase:
+- Croissants, muffins, brownies, sandwiches
+- Aesthetic image gallery with Instagram-style visuals
 
-#Custom Cake Orders Section:
--highlight personalized cake designs for birthdays, weddings, anniversaries
--include customization options and enquiry CTA
+# Custom Orders Section:
+- Highlight personalized coffee blends and bakery catering
+- Include customization options and enquiry CTA
 
-#Cozy Bakery Cafe Corner:
--warm seating atmosphere for coffee and desserts
--aesthetic workspace vibe for friends and students
+# Cozy Café Corner:
+- Warm seating atmosphere for coffee and desserts
+- Aesthetic workspace vibe for friends and students
 
-#Customer Testimonials:
--stylish review cards with customer photos and ratings
+# Customer Testimonials:
+- Stylish review cards with customer photos and ratings
 
-#Special Offers Banner:
--seasonal discounts and festival cake offers
--animated premium promotional banner
+# Special Offers Banner:
+- Seasonal discounts and festival coffee offers
+- Animated premium promotional banner
 
-#Booking / Order CTA Section:
--strong call-to-action for table booking and cake orders
--modern contact form and WhatsApp order button
+# Booking / Order CTA Section:
+- Strong call-to-action for table booking and coffee orders
+- Modern contact form and WhatsApp order button
 
-#Footer Section:
--social media icons
--bakery timings
--location and contact details
--elegant dark-themed footer design
+# Footer Section:
+- Social media icons
+- Café timings
+- Location and contact details
+- Elegant dark-themed footer design
 
 Additional Requirements:
--fully responsive modern website
--smooth scrolling animations
--premium hover effects
--aesthetic food photography style
--glassmorphism / soft shadow cards
--mobile-friendly luxury UI
--trendy social-media-ready appearance
-high-quality bakery visuals with warm lighting ambiance
+- Fully responsive modern website
+- Smooth scrolling animations
+- Premium hover effects
+- Aesthetic food photography style
+- Glassmorphism / soft shadow cards
+- Mobile-friendly luxury UI
+- Trendy social-media-ready appearance
+- High-quality café visuals with warm lighting ambiance
