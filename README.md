@@ -11,13 +11,17 @@ ________________________________________________________________________________
 ⚙️ Tech Stack & Tools
 
 ChatGPT (Prompt Engineering)
+
 GitHub
+
 Lovable Ai
 _________________________________________________________________________________________________________________________________________________________
 🛠️ Core Features Developed
 
 Premium Hero Section
+
 Signature Brews & Menu Showcase
+
 Bakery & Pastries Gallery
 Custom Orders Section
 Cozy Café Corner
